@@ -12,6 +12,16 @@ This project analyzes and predicts used car prices using a dataset of US dealer 
 - Model Evaluation & Visualization
 - Price Trend Forecasting
 
+## How to Run
+Clone the repository:
+`git clone https://github.com/Aheli98/Used-Car-Prediction.git`
+
+## Code Exploration
+
+1. Place `us-dealers-used.csv` in the working directory.
+2. Open and run `UsedcarPrediction_Final.ipynb` in Jupyter Notebook or VS Code.
+3. Follow the notebook cells sequentially for data analysis, modeling, and visualization.
+
 ## Dataset
 
 - **Source:** `us-dealers-used.csv`
@@ -77,12 +87,6 @@ This project analyzes and predicts used car prices using a dataset of US dealer 
 - matplotlib
 - seaborn
 - statsmodels
-
-## How to Run
-
-1. Place `us-dealers-used.csv` in the working directory.
-2. Open and run `UsedcarPrediction_Final.ipynb` in Jupyter Notebook or VS Code.
-3. Follow the notebook cells sequentially for data analysis, modeling, and visualization.
 
 ## Results
 
